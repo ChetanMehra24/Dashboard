@@ -85,4 +85,4 @@ Regional Analysis: Governments and tourism bodies can analyze competitiveness by
 
 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: 
+Example: (https://github.com/ChetanMehra24/Dashboard/blob/main/Screenshot%202025-06-07%20130400.png)
